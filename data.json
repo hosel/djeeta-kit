@@ -7,6 +7,7 @@
 		"Lyria",
 		"Nemone",
 		"Sturm & Drang",
+		"V",
 		"Yuisis",
 		"Zeta",
 		"Misc"
@@ -77,6 +78,16 @@
 				"http://i.imgur.com/vCUDx60.png"
 			]
 		},
+		
+		{
+			"name": "V",
+			"images": [
+				"http://game-a.granbluefantasy.jp/assets_en/img/sp/quest/scene/character/body/3050001000.png",
+				"http://game-a.granbluefantasy.jp/assets_en/img/sp/quest/scene/character/body/3050001000_race.png"
+				
+			]
+		},
+		
 		{
 			"name": "Zeta",
 			"images": [
